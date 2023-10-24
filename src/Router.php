@@ -21,7 +21,7 @@ class Router
             $controller = new Controller();
             $controller->$action();
         }
-        
+
         else
         {
             throw new \Exception("No route found for URI: $uri");
