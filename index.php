@@ -1,8 +1,10 @@
 <?php
 
-require 'vendor/autoload.php';
+namespace POS;
 
-$uri = $_SERVER['REQUEST_URI'];
+require 'src/routes.php';
 
-$router = require 'src/routes.php';
-$router->dispatch($uri);
+
+// $router = require 'src/routes.php';
+
+
