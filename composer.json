@@ -1,0 +1,15 @@
+{
+    "name": "hein/pos-system",
+    "autoload": {
+        "psr-4": {
+            "Hein\\PosSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hein Wai Yan Htet",
+            "email": "heinwaiyanhtet2020@gmail.com"
+        }
+    ],
+    "require": {}
+}
