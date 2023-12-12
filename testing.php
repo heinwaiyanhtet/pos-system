@@ -11,7 +11,7 @@
     // echo $impodedUri;
 
 
-    
-    echo APPROOT;
+    echo "h";
+    // echo APPROOT;
     
 ?>
