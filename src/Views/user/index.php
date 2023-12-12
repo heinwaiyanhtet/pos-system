@@ -10,14 +10,14 @@
     
     <ul> 
         <?php 
-        foreach ($users as $user): 
+           foreach ($users as $user): 
         ?>
             <li>
                 <?= $user->name ?> 
                 (<?= $user->email ?>)
             </li>
         <?php 
-    endforeach; 
+         endforeach; 
     
     ?>   
      </ul>

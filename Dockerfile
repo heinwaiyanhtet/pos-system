@@ -11,3 +11,8 @@ RUN apt-get update && \
 EXPOSE 80
 
 CMD ["apache2-foreground"]
+
+
+# docker build -t pos-system .
+# docker run -p 8080:80 pos-system
+

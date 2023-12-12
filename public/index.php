@@ -1,5 +1,8 @@
 <?php
 
-    echo "hello world";
+namespace POS;
 
-?>
+require 'src/routes.php';
+
+
+
