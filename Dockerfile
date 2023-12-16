@@ -24,5 +24,5 @@ CMD ["apache2-foreground"]
 
 
 # docker build -t pos-system .
-# docker run pos-system
+# docker run -p 80:80 pos-system
 
