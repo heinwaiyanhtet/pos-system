@@ -1,8 +1,10 @@
 <?php
 
-namespace POS;
+require_once dirname(__DIR__) . '/vendor/autoload.php';
 
-require 'src/routes.php';
+// namespace POS;
+
+// require '../src/routes.php';
 
 
 
