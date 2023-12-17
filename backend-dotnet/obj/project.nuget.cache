@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "ubFy4OfC/mWEFwu71zul31a9B5q4bHAzC4XUFlA6vDYLCqNjK86vz7/Zm8VPTuvhqZN1Oa5iBlBCaH+5ytxdWw==",
+  "success": true,
+  "projectFilePath": "/home/hein/Desktop/POS-SYSTEM/pos-system/backend-dotnet/backend-dotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/hein/.nuget/packages/graphql/7.7.2/graphql.7.7.2.nupkg.sha512",
+    "/home/hein/.nuget/packages/graphql-parser/8.4.2/graphql-parser.8.4.2.nupkg.sha512",
+    "/home/hein/.nuget/packages/graphql.analyzers/7.7.2/graphql.analyzers.7.7.2.nupkg.sha512",
+    "/home/hein/.nuget/packages/graphql.dataloader/7.7.2/graphql.dataloader.7.7.2.nupkg.sha512",
+    "/home/hein/.nuget/packages/graphql.memorycache/7.7.2/graphql.memorycache.7.7.2.nupkg.sha512",
+    "/home/hein/.nuget/packages/graphql.microsoftdi/7.7.2/graphql.microsoftdi.7.7.2.nupkg.sha512",
+    "/home/hein/.nuget/packages/graphql.newtonsoftjson/7.7.2/graphql.newtonsoftjson.7.7.2.nupkg.sha512",
+    "/home/hein/.nuget/packages/graphql.systemtextjson/7.7.2/graphql.systemtextjson.7.7.2.nupkg.sha512",
+    "/home/hein/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/hein/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.0/microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
+    "/home/hein/.nuget/packages/microsoft.extensions.caching.memory/3.1.0/microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
+    "/home/hein/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.0/microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "/home/hein/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.0/microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "/home/hein/.nuget/packages/microsoft.extensions.options/3.1.0/microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "/home/hein/.nuget/packages/microsoft.extensions.primitives/3.1.0/microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "/home/hein/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/hein/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/hein/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/hein/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/hein/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/hein/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/hein/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
