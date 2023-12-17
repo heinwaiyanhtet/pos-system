@@ -24,9 +24,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-
-
-app.UseGraphQLGraphiQL();
+app.UseGraphQL();
 
 app.UseAuthorization();
 
