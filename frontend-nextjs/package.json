@@ -1,7 +1,6 @@
 {
   "name": "front-end-nextjs",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,9 +8,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/cssinjs": "^1.18.1",
     "@ant-design/icons": "^5.2.6",
-    "antd": "^5.12.3",
     "next": "14.0.4",
+    "primeicons": "^6.0.1",
+    "primereact": "^10.2.1",
     "react": "^18",
     "react-dom": "^18"
   },
